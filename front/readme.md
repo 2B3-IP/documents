@@ -1,4 +1,4 @@
-Acest readme o sa reprezinte un raport pentru cine a lucrat ce in iteratii. Iteratia 1: <br />
+Acest readme o sa reprezinte un raport de munca pentru iteratia 1: <br />
 <br />
  <br />
 <br />
